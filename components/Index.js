@@ -2,14 +2,14 @@ import React from 'react'
 
 function Index() {
   return (
-    <div className='bg-stone-300 pl-2 pb-4 pt-4'>
+    <div className='bg-stone-300 pl-2 pb-4 pt-4 border-b-2 border-b-slate-500'>
         <h1 className='font-bold'>Index</h1>
         <div className='pl-4'>
             <header className='cursor-pointer py-2 font-semibold'>Application</header>
             <p className='pl-4 text-sm'>This is an application form that you can fill out to register your team for the upcoming season.</p>
             <header className='py-2 font-semibold'>Awards</header>
             <p className='pl-4 text-sm'>Teams that make the playoffs in their respective leagues compete for great prizes like these.</p>
-            <header className='py-2 font-semibold'>Captain's Do's and Don'ts</header>
+            <header className='py-2 font-semibold'>Captain&apos;s Do&apos;s and Don&apos;ts</header>
             <p className='pl-4 text-sm'>This page contains suggestions for team captains to help their team have more fun in the IVL and to keep them informed about IVL events.</p>
             <header className='py-2 font-semibold'>Champions</header>
             <p className='pl-4 text-sm'>This page lists the results of the last playoff match in each league last season.</p>
@@ -42,7 +42,7 @@ function Index() {
             <header className='py-2 font-semibold'>Referee Tips</header>
             <p className='pl-4 text-sm'>Good referees keep the game fun for everyone. Here are some tips for referees to improve their skills.</p>
             <header className='py-2 font-semibold'>Rules</header>
-            <p className='pl-4 text-sm'>Rules specific to the IVL, and David Hirose's supplement. These supplement the current USA Volleyball rules for IVL tournaments.</p>
+            <p className='pl-4 text-sm'>Rules specific to the IVL, and David Hirose&apos;s supplement. These supplement the current USA Volleyball rules for IVL tournaments.</p>
             <header className='py-2 font-semibold'>Why is the IVL So Popular?</header>
             <p className='pl-4 text-sm'>Comments from our participants, explaining why they enjoy participating in our leagues.</p>
             <header className='py-2 font-semibold'>Who Runs the IVL?</header>

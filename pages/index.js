@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import About from '../components/About'
+import Additional from '../components/Additional'
 import Announcements from '../components/Announcements'
 import Footer from '../components/Footer'
 import Header from '../components/Header'
@@ -24,6 +25,9 @@ export default function Home() {
 
       {/* Index */}
       <Index />
+
+      {/* Additional */}
+      <Additional />
 
       {/* Footer */}
       <Footer />

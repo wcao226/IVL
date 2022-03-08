@@ -17,15 +17,15 @@ function About() {
         </div>
         <div>
             <header className='font-bold py-1'>Who can play?</header>
-            <p className='text-sm pl-4'>The IVL welcomes any kind of team; from beginner/novice (what we call our Recreational B) to the very best players who would compete in our league. Twice, our champion has gone on to win the U.S. national coed championship. With six different levels to choose from, we can pretty much guarantee you'll be placed in a league where you'll have some fun.</p>
+            <p className='text-sm pl-4'>The IVL welcomes any kind of team; from beginner/novice (what we call our Recreational B) to the very best players who would compete in our league. Twice, our champion has gone on to win the U.S. national coed championship. With six different levels to choose from, we can pretty much guarantee you&apos;ll be placed in a league where you&apos;ll have some fun.</p>
         </div>
         <div>
             <header className='font-bold py-1'>How do we sign up?</header>
-            <p className='text-sm pl-4'>Read "How to sign up" and then fill out the application. For more details on how many games you play and how the leagues operate, read "League Format." See Index for a complete listing of all the available information.</p>
+            <p className='text-sm pl-4'>Read &quot;How to sign up&quot; and then fill out the application. For more details on how many games you play and how the leagues operate, read &quot;League Format.&quot; See Index for a complete listing of all the available information.</p>
         </div>
         <div>
             <header className='font-bold py-1'>Volleyball Resources</header>
-            <p className='text-sm pl-4 pb-2'>The IVL purchases its t-shirts and volleyballs from Sprocket's. 55 N. Santa Cruz Ave. in downtown Los Gatos. (408)354-5450. Open 7 days a week. Or shop online at www.siliconvolley.com</p>
+            <p className='text-sm pl-4 pb-2'>The IVL purchases its t-shirts and volleyballs from Sprocket&apos;s. 55 N. Santa Cruz Ave. in downtown Los Gatos. (408)354-5450. Open 7 days a week. Or shop online at www.siliconvolley.com</p>
             <p className='text-sm pl-4'>Just Volleyball also sells volleyball equipment. (408)738-4500 or shop@justvolleyballstore.com. www.justvolleyballstore.com</p>
         </div>
     </div>
